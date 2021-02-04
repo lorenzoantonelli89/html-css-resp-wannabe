@@ -1,0 +1,15 @@
+/* file css responsive sotto i 420px */
+
+@media all and (max-width: 420px){
+
+  .container, .row{
+    width: 420px;
+  }
+
+  #lezioni .row>.left, #lezioni .row>.right, #steps .row>.left, #steps .row>.central, #steps .row>.right{
+    width: 100%;
+    margin-bottom: 70px;
+    float: none;
+  }
+
+}

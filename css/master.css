@@ -3,7 +3,7 @@
 @media all and (max-width: 420px){
 
   .container, .row{
-    width: 420px;
+    width: 100%;
   }
 
   #lezioni .row>.left, #lezioni .row>.right, #steps .row>.left, #steps .row>.central, #steps .row>.right{

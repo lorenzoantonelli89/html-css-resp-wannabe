@@ -1,6 +1,6 @@
 /* file css responsive sotto i 768px*/
 
-@media all and (max-width: 768px){
+@media all and (min-width: 421px) and (max-width: 768px){
 
   *{
     margin: 0;
